@@ -1,6 +1,6 @@
 # studysmart
 
-A new Flutter project.
+This shit took me so long to make it, but I can't use it, anyway, this is still a viable application, thanks for reading
 
 ## Getting Started
 
