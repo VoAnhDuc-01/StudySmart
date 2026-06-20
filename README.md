@@ -1,6 +1,6 @@
 # studysmart
 
-This shit took me so long to make it, but I can't use it, anyway, this is still a viable application, thanks for reading
+Fuck This Shit I'm Out
 
 ## Getting Started
 
