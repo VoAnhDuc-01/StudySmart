@@ -1,6 +1,6 @@
 # studysmart
 
-Fuck This Shit I'm Out
+Random bullshjt go
 
 ## Getting Started
 
